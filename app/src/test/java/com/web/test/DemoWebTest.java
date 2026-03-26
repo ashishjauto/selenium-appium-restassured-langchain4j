@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class DemoWebTest {
-/*
+
     @Test
     public void demoWebTest(){
         WebDriver driver = new ChromeDriver();
@@ -15,5 +15,5 @@ public class DemoWebTest {
         Assert.assertEquals("https://www.google.com/", driver.getCurrentUrl());
 
 
-    }*/
+    }
 }
